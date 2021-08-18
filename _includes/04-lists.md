@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Jason Isbell
+* Brandi Carlile
+* The Head and the Heart
